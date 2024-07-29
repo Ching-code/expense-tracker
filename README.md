@@ -1,35 +1,12 @@
-# expense-tracker
+# vue3 記帳工具
 
-This template should help get you started developing with Vue 3 in Vite.
+[作品連結](https://ching-code.github.io/expense-tracker/)
 
-## Recommended IDE Setup
+使用技術:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- vue3
+- echart.js
 
-## Customize configuration
+改進方向:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+把 local storage 儲存改成加入後端資料庫儲存用戶資訊
